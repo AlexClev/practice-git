@@ -1,1 +1,2 @@
 second test git branch
+add info for commit2
