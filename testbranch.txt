@@ -1,3 +1,4 @@
 second test git branch
 add info for commit2
 add info for commit3
+add info for commit5 in master
